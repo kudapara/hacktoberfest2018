@@ -1,3 +1,9 @@
+Name: [kudapara](https://github.com/kudapara)<br/>
+Place: Harare, Zimbabwe
+About: I am an aspiring software engineer <br/>
+Programming Language: HTML, Javascript, Vue.js, Css, VB.net
+Email: kgparadzayi@gmail.com
+
 Name: [Rocarft](https://github.com/rocarft)<br/>
 Place: Georgia<br/>
 About: Music, Coding, Fun!<br/>
